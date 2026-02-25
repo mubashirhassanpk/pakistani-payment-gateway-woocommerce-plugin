@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Pakistani Payment Gateway
- * Plugin URI: https://www.mubashirhassan.com/pakistani-payment-gateway-plugin
+ * Plugin URI: https://www.mubashirhassan.com/pakistani-payment-gateway-wordpress-plugin.html
  * Description: Complete payment gateway solution for Pakistani businesses. Supports 14 payment methods including Easypaisa, JazzCash, SadaPay, NayaPay, Zindigi, and major banks (HBL, UBL, Meezan, MCB, Allied, Alfalah, Faysal, Standard Chartered). Features transaction ID tracking, payment screenshot upload, sender verification, and customizable checkout fields.
  * Version: 1.0.0
  * Author: Mubashir Hassan
@@ -2980,3 +2980,4 @@ function ppg_render_reports_page() {
     </div>
     <?php
 }
+
