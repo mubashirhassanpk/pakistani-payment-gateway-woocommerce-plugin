@@ -152,7 +152,7 @@ Use these variables in email templates:
 ## Support
 
 For support, feature requests, or bug reports, please visit:
-- **Plugin URI:** https://www.mubashirhassan.com/pakistani-payment-gateway-plugin
+- **Plugin URI:** https://www.mubashirhassan.com/pakistani-payment-gateway-wordpress-plugin.html
 - **Author:** Mubashir Hassan
 - **Author URI:** https://www.mubashirhassan.com
 
@@ -211,3 +211,4 @@ A: Yes, the plugin includes full email template customization with support for m
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues on the GitHub repository.
+
